@@ -1,0 +1,7 @@
+npm install next@14 react@18 react-dom@18
+npm install @anthropic-ai/sdk @supabase/supabase-js jspdf
+npm install tailwindcss autoprefixer postcss
+npm install -D @types/node @types/react @types/react-dom typescript
+npm install @heroicons/react
+npm install jspdf@2.5.1
+npm install @types/leaflet --save-dev
